@@ -1,12 +1,9 @@
-<<<<<<< Updated upstream
 I am a new Fasty branch for new login page
 i am using flat and flaster design
 
 
 add a function in master 1
 adding new function to logine user 1
-=======
 the first commit in the chart .
 
 commiting the stash
->>>>>>> Stashed changes
