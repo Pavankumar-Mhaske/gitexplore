@@ -1,4 +1,12 @@
 # This is the comment 
 
-# *.js
-filder_modules/
+# file to ignore
+*.js 
+
+# folder to ignore
+folder_modules/
+# *.txt
+
+# this should not be ignore
+!app.js
+!03file.txt
