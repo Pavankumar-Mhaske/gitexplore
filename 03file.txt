@@ -1,2 +1,5 @@
 I am a new Fasty branch for new login page
 i am using flat and flaster design
+
+
+add a function in master 1
