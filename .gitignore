@@ -2,6 +2,7 @@
 
 # file to ignore
 *.js 
+*.php
 
 # folder to ignore
 folder_modules/
